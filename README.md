@@ -1,2 +1,2 @@
 # PW-Backend6TA
-Curso de bakend
+Curso de bakend para PW
