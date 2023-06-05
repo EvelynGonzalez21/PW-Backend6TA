@@ -5,6 +5,6 @@ from django.urls import path
 from .import views
 # declarando las rutas validas
 urlpatterns=[
-    path("", views.index, name="index")
-    path("author/", views.author, name="author")
+    path("", views.index, name="index"),
+    path("author/", views.author, name="author"),
 ]
